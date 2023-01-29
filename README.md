@@ -9,5 +9,6 @@ I will be putting a few different types of documents in this repository so for a
 * Writeups = A full fledged penetration testing report.
 
 ## Writeup Temaplates
-* Google Docs Template
+Just replace my logo, name and links with your own and then the templates are free for anyone to use.
+* [Google Docs Template](https://docs.google.com/document/d/1ViKmi_d4BGNPTo5u_GlZ-yFBXPOwCIJChbg5JNrwE9Y/edit#)
 * Notion Template
