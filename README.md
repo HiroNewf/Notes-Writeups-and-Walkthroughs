@@ -11,4 +11,4 @@ I will be putting a few different types of documents in this repository so for a
 ## Writeup Temaplates
 Just replace my logo, name and links with your own and then the templates are free for anyone to use.
 * [Google Docs Template](https://docs.google.com/document/d/1ViKmi_d4BGNPTo5u_GlZ-yFBXPOwCIJChbg5JNrwE9Y/edit#)
-* Notion Template
+* [Notion Template](https://hironewf.notion.site/Penetration-Testing-Report-Template-d720d84dc6034cd992caf933cb692b4f)
