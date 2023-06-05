@@ -9,3 +9,4 @@ Just replace my logo, name and links with your own and then the templates are fr
   * If you want to export this one as a PDF some editing to the spacing may be needed so that it doesn't look stupid when broken up into pages instead of just one long page like notion is by default
 ## Notion Reports/Writeups links
 * [Red Team Capstone Report (In it's intended form, it looks kinda dumb in pdf)](https://hironewf.notion.site/Red-Team-Capstone-Report-349332d46b0b476289d7c01f2e1d64f2?pvs=4)
+  * This report also somehow got third place for the Red Team Capstone challenege. So uhh go [here](https://tryhackme.com/resources/blog/red-team-capstone-prizes) if you wanna check out the other winners. I will add a link to the blog post with the reports when that is avalible. 
