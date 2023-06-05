@@ -7,3 +7,5 @@ Just replace my logo, name and links with your own and then the templates are fr
   * Look at my Wreath Report if you want to see the template in use
 * [Notion Template](https://hironewf.notion.site/Penetration-Testing-Report-Template-d720d84dc6034cd992caf933cb692b4f) 
   * If you want to export this one as a PDF some editing to the spacing may be needed so that it doesn't look stupid when broken up into pages instead of just one long page like notion is by default
+## Notion Reports/Writeups links
+* [Red Team Capstone Report (In it's intended form, it looks kinda dumb in pdf)](https://hironewf.notion.site/Red-Team-Capstone-Report-349332d46b0b476289d7c01f2e1d64f2?pvs=4)
