@@ -1,7 +1,7 @@
 # Notes/WriteUps/Walkthroughs
 A collections of my notes/walkthroughs/writeups for TryHackMe, HackTheBox and other boxes/networks. 
 
-## Writeup Temaplates
+## Writeup Templates
 Just replace my logo, name and links with your own and then the templates are free for anyone to use.
 * [Google Docs Pentest Report Template](https://docs.google.com/document/d/1ViKmi_d4BGNPTo5u_GlZ-yFBXPOwCIJChbg5JNrwE9Y/edit#)
   * Look at my Wreath Report if you want to see the template in use
