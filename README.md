@@ -10,5 +10,5 @@ Just replace my logo, name and links with your own and then the templates are fr
 * [Notion Red Team Engagement Report Template](https://hironewf.notion.site/Red-Team-Engagement-Report-76150bbdd379486e96bce92a8a97323a?pvs=4)
   * Used for my Red Team Capstone report 
 ## Notion Reports/Writeups links
-* [Red Team Capstone Report]() (In it's intended form, it looks kinda dumb in pdf)
+* [Red Team Capstone Report](https://hironewf.notion.site/Red-Team-Capstone-Report-4f53d584a90f4a9d91a022ff869c2878?pvs=4) (In it's intended form, it looks kinda dumb in pdf)
   * This report also somehow got third place for the Red Team Capstone challenege. So uhh go [here](https://tryhackme.com/resources/blog/red-team-capstone-prizes) if you wanna check out the other winners. I will add a link to the blog post with the reports when that is avalible. 
