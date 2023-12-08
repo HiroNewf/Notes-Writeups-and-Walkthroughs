@@ -11,4 +11,4 @@ Just replace my logo, name and links with your own and then the templates are fr
   * Used for my Red Team Capstone report 
 ## Notion Reports/Writeups links
 * [Red Team Capstone Report](https://hironewf.notion.site/Red-Team-Capstone-Report-4f53d584a90f4a9d91a022ff869c2878?pvs=4) (In it's intended form, it looks kinda dumb in pdf)
-  * This report also somehow got third place for the Red Team Capstone challenege. So uhh go [here](https://tryhackme.com/resources/blog/red-team-capstone-prizes) if you wanna check out the other winners. I will add a link to the blog post with the reports when that is avalible. 
+  * This report also somehow got third place for the Red Team Capstone challenege. So uhh here is that [blog post](https://tryhackme.com/r/resources/blog/hironewf-red-team-capstone-write-up) and here are the other winners; [Azkrath](https://tryhackme.com/r/resources/blog/azkraths-red-team-capstone-write-up), [Desterhuizen](https://tryhackme.com/r/resources/blog/desterhuizen-red-team-capstone-write-up), & [Kesaya](https://tryhackme.com/r/resources/blog/kesaya-red-team-capstone-write-up).
